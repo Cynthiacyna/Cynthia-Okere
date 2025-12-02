@@ -36,3 +36,21 @@ Explored borrowing trends, membership growth, popular genres, age-group engageme
 Delivered an interactive dashboard highlighting usage trends and operational insights.
 
 Repo: (https://github.com/Cynthiacyna/Data-Analysis-Dashboard)
+
+## 🌱 Currently Learning
+
+Machine Learning for data analysis
+
+Advanced SQL window functions
+
+Power BI
+
+## 📬 Let's Connect
+
+LinkedIn: www.linkedin.com/in/chinyere-okere-018557197
+
+Email: ccokere@gmail.com
+
+## ⭐ Fun Fact
+
+I love telling stories with data and building visuals that make insights easy to understand.
