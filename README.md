@@ -1,4 +1,4 @@
-# Cynthia-Okere
+<hi align="center">Hi, I'm Cynthia-Okere</h1>
 Data Analyst | SQL | Power BI | Excel | Machine Learning 
 Welcome to my GitHub! I'm a data analyst passionate about transforming raw data into meaningful insights that drive smarter decisions. I specialize in data cleaning, exploratory analysis, visualization, and dashboard reporting.
 
